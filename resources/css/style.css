@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "verdana";
+  src: url('../resources/Vardana.ttf');
+}
+html{
+  background-color: black;
+  text-align: center;
+  margin: 10 auto;
+  font-family: "verdana";
+}
+h1,h2 {
+  color:white;
+  text-align: center;
+  margin: 0 auto;
+  font-weight: normal;
+  font-size: 50px;
+  padding-top: 20px;
+}
+h5{
+  color:gray;
+  font-size: 21px;
+}
+p a{
+color:aquamarine;
+font-size: 16px;
+padding-top: 20px;
+}
+p img{
+  padding-top: 20px;
+}
+p {
+  color:gray;
+}
+.end{
+  text-align: right;
+}
